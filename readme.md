@@ -14,9 +14,9 @@ Ce TP regroupe plusieurs exercices permettant d'explorer différents concepts fo
 Pour compiler et exécuter le programme en sélectionnant un exercice spécifique, utilisez la commande suivante :
 
 pour compiler
-\`\`\`sh
+`sh
 g++ main.cpp -o tp -DEXO=n 
-\`\`\`
+`
 
 Remplacez \`n\` par le numéro de l'exercice à compiler.
 
